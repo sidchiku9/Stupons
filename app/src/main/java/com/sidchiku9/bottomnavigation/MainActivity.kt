@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val firstfragment = FirstGragment()
         val secondfragment = SecondFragment()
         val thirdfragment = ThirdFragment()
-        val fourthfragment = FourthFragment()
+        //val fourthfragment = FourthFragment()
         val fifthfragment = FifthFragment()
 
         setCurrentFragment(firstfragment)
@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.pageOne -> setCurrentFragment(firstfragment)
                 R.id.pageTwo -> setCurrentFragment(secondfragment)
                 R.id.pageThree -> setCurrentFragment(thirdfragment)
-                R.id.pageFour -> setCurrentFragment(fourthfragment)
+                //R.id.pageFour -> setCurrentFragment(fourthfragment)
                 R.id.pageFive -> setCurrentFragment(fifthfragment)
             }
             true

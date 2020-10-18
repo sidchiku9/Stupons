@@ -21,11 +21,11 @@
         android:icon="@drawable/responsibilites"
         android:title="@string/resp"/>
 
-    <item
+    <!--<item
         android:id="@+id/pageFour"
         android:enabled="true"
         android:icon="@drawable/announcement"
-        android:title="@string/Announcements"/>
+        android:title="@string/Announcements"/>-->
 
     <item
         android:id="@+id/pageFive"
