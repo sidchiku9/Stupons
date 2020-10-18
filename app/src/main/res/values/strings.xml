@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ADG Internal</string>
+    <string name="meetings">Meeting</string>
+    <string name="tasks">Tasks</string>
+    <string name="resp">Responsibilities</string>
+    <string name="Announcements">Announcements</string>
+    <string name="Profile">Profile</string>
+</resources>
