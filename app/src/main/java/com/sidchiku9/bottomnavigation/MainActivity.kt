@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         val secondfragment = SecondFragment()
         val thirdfragment = ThirdFragment()
         //val fourthfragment = FourthFragment()
+        //just testing
         val fifthfragment = FifthFragment()
 
         setCurrentFragment(firstfragment)
